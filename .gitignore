@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+
+# 训练产物（模型和数据都不进 git）
+saved/
+data/train/
+data/val/
